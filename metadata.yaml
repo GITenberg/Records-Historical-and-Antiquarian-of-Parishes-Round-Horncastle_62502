@@ -1,0 +1,23 @@
+_repo: Records-Historical-and-Antiquarian-of-Parishes-Round-Horncastle_62502
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Walter, J. Conway (James Conway)
+    alias: Walter, James Conway
+    gutenberg_agent_id: '32500'
+    url: http://www.gutenberg.org/2009/agents/32500
+description: ''
+gutenberg_issued: '2020-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62502'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Parishes -- England -- Horncastle -- History'
+- !lcc 'DA'
+- GITenberg
+title: Records, Historical and Antiquarian, of Parishes Round Horncastle
+url: http://www.gutenberg.org/ebooks/62502
